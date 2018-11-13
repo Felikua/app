@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="23acf62ad15d102242b25e6f7647be81cbcb6353">
+        <dex dex="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be63c804caf148a893d1e05fd080443e003d4769/classes.dex" />
+    </item>
+    <item
+        jar="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="83289ff638ac62a8d0f1ec836c40e34cf2aeb868">
+        <dex dex="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_829580badb274161ecc3cd564fae091dd82efdd9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/robpercival/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_5a21df1bb914c2c5c326c3631860cb3f7a0cdd7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_365c02b4224ab78aba3a4f3a03b095b03bcabd17/classes.dex" />
+    </item>
+    <item
+        jar="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_1c7c10098f9863f487d8ca8b15132abfe7822800/classes.dex" />
+    </item>
+    <item
+        jar="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/robpercival/AndroidStudioProjects/NumberShapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_0a0ac5392c8f35c9509bc44bb3c0f09fdaa5f05c/classes.dex" />
+    </item>
+
+</items>
